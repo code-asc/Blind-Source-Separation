@@ -12,6 +12,13 @@ Here **U**, **V** perform rotation and **W** for scaling.
 **X** = **AS**
 
 
+![Image of variations](https://raw.githubusercontent.com/code-asc/Blind-Source-Separation/master/img.png " ")
+
+The top two images are the expected outputs **s1** and **s2**.
+
+The middle two images are the inputs **x1** and **x2**.
+
+The bottom two images are the actual outputs.
 
 ## Installation
 
