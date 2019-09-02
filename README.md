@@ -19,7 +19,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
 pip install cv2
-pip install lumpy
+pip install numpy
 ```
 
 
